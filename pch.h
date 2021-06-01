@@ -12,5 +12,5 @@
 
 #include "socket.h"
 
-#define PROTOCOL 754
+#define PROTOCOL 25565
 #define CRTERR(x) if(x) return 1;
